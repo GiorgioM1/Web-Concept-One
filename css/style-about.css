@@ -60,11 +60,9 @@ body {
 }
 
 a:hover {
-  color: white;
-  background-color: #26160c;
+  color: #ffe26f;
   padding: 10px 10px 10px 10px;
   text-decoration: none;
-  box-shadow: 10px 10px 5px grey;
   text-shadow: 2px 2px 4px #000000;
 
 }

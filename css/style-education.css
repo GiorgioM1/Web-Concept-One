@@ -62,11 +62,9 @@ p {
   font-size: 20px;
 }
 a:hover {
-  color: white;
-  background-color: #b57118;
+  color: #b57118;
   padding: 10px 10px 10px 10px;
   text-decoration: none;
-  box-shadow: 10px 10px 5px grey;
   text-shadow: 2px 2px 4px #000000;
 
 }
